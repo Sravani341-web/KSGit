@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6ec8e28-14af-4628-ba63-900c837290db</testCaseGuid>
+   <variable>
+      <defaultValue>'test case alert variable '</defaultValue>
+      <description></description>
+      <id>6cd832d1-4508-4080-b787-c36dbf7bc245</id>
+      <masked>false</masked>
+      <name>testcasealert</name>
+   </variable>
+</TestCaseEntity>
